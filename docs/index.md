@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to Karius LIS
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
